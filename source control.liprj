@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="el" xml:lang="el" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceControlBound="false">
+<LingoProject TargetLanguage="el" xml:lang="el" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceControlBound="true" SourceControlDatabase="C:\Users\lbrown\Documents\My Translated Projects\source control.liprjf\.git" SourceControlProviderType="Git" ProjectGuid="1f872435-d225-4177-8000-f2913d36a4f8" SourceControlDatabaseRoot="C:\Users\lbrown\Documents\My Translated Projects\source control.liprjf">
     <ProjectFile Source="Target/TOPNAV TROUBLESHOOT.flprj" Target="Target/TOPNAV TROUBLESHOOT.flprj" />
 </LingoProject>
