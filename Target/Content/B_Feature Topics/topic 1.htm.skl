@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="394" MadCap:lastWidth="969" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1>砻קยด1ตว融</h1>
+        <p>&#160;</p>
+        <div>
+            <p>砻קยด2ตว融</p>
+            <ul>
+                <li>砻קยด3ตว融</li>
+                <li>砻קยด4ตว融</li>
+            </ul>
+        </div>
+        <p>&#160;</p>
+        <p>
+            <MadCap:xref href="C:\log.txt">Feature 2 A</MadCap:xref>
+        </p>
+        <p>&#160;</p>
+        <p>
+            <MadCap:xref href="topic 2.htm">topic 2</MadCap:xref>
+        </p>
+    </body>
+</html>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains several starter topics and other files intended for online HTML5 output with top navigation like a modern website, instead of the more traditional tripane format. It is a simpler version of the Top Navigation Advanced template. Although it is a basic template, the content and files have been designed to maximize single-sourcing capabilities. This template starts you out with one HTML5 target. Responsive output is automatically enabled with this type of output. This means the content display changes automatically depending on the width of the screen. You can add other kinds of targets and skins if you like."
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  MasterStylesheetOverride="True"
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2017-03-02T12:29:47.0345996-08:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/TRIPANE TROUBLESHOOT.flprj"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/TRIPANE TROUBLESHOOT.flprj" />
+  </Files>
+  <ExcludedFiles>
+    <Url
+      Source="../../Content/B_Feature Topics/topic 1.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TOPNAV/TOPNAV TROUBLESHOOT/Content/B_Feature Topics/topic 1.htm" />
+  </ExcludedFiles>
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../../TRIPANE/TRIPANE TROUBLESHOOT/Content/B_Feature Topics/topic 1.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/Content/B_Feature Topics/topic 1.htm" />
+    <Url
+      Source="../../../../TRIPANE/TRIPANE TROUBLESHOOT/Content/B_Feature Topics/topic 2.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/Content/B_Feature Topics/topic 2.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../../TRIPANE/TRIPANE TROUBLESHOOT/Content/A_Introduction Topics/MoreInformation.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/Content/A_Introduction Topics/MoreInformation.htm" />
+    <Url
+      Source="../../../../TRIPANE/TRIPANE TROUBLESHOOT/Content/A_Introduction Topics/Welcome.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/Content/A_Introduction Topics/Welcome.htm" />
+    <Url
+      Source="../../../../TRIPANE/TRIPANE TROUBLESHOOT/Content/A_Introduction Topics/WhatsNew.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/Content/A_Introduction Topics/WhatsNew.htm" />
+    <Url
+      Source="../../../../TRIPANE/TRIPANE TROUBLESHOOT/Content/B_Feature Topics/Feature3.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/Content/B_Feature Topics/Feature3.htm" />
+    <Url
+      Source="../../../../TRIPANE/TRIPANE TROUBLESHOOT/Content/B_Feature Topics/Features.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/Content/B_Feature Topics/Features.htm" />
+    <Url
+      Source="../../../../TRIPANE/TRIPANE TROUBLESHOOT/Content/C_Procedure Topics/Procedure1.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/Content/C_Procedure Topics/Procedure1.htm" />
+    <Url
+      Source="../../../../TRIPANE/TRIPANE TROUBLESHOOT/Content/C_Procedure Topics/Procedure2.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/Content/C_Procedure Topics/Procedure2.htm" />
+    <Url
+      Source="../../../../TRIPANE/TRIPANE TROUBLESHOOT/Content/C_Procedure Topics/Procedure3.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/Content/C_Procedure Topics/Procedure3.htm" />
+    <Url
+      Source="../../../../TRIPANE/TRIPANE TROUBLESHOOT/Content/C_Procedure Topics/Procedures.htm"
+      AbsoluteSource="file:///C:/Users/lbrown/Desktop/TRIPANE/TRIPANE TROUBLESHOOT/Content/C_Procedure Topics/Procedures.htm" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/B_Feature Topics/topic 1.htm"
+      TimeStamp="3/2/2017 12:28:49 PM" />
+    <Url
+      Source="../../Content/B_Feature Topics/topic 2.htm"
+      TimeStamp="3/2/2017 12:28:55 PM" />
+  </GeneratedFiles>
+</CatapultProject>
